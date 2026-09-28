@@ -1,0 +1,140 @@
+{
+  "project_key": "banner_guardian",
+  "generated_at_kst": "2026-09-28T14:24:28+09:00",
+  "window_days": 14,
+  "row_count": 11,
+  "rows": [
+    {
+      "work_day": "2026-09-17",
+      "run_date_kst": "2026-09-18",
+      "status": "문제있음",
+      "alert_flag": true,
+      "total": 1783,
+      "ok_count": 1752,
+      "mismatch_count": 31,
+      "match_rate_pct": 98.26,
+      "slack_permalink": "",
+      "summary": "2026-09-17~2026-09-17 · 총 1783 · Mismatch 31 · 정합성 98.3%"
+    },
+    {
+      "work_day": "2026-09-18",
+      "run_date_kst": "2026-09-19",
+      "status": "문제있음",
+      "alert_flag": true,
+      "total": 1778,
+      "ok_count": 1749,
+      "mismatch_count": 29,
+      "match_rate_pct": 98.37,
+      "slack_permalink": "",
+      "summary": "2026-09-18~2026-09-18 · 총 1778 · Mismatch 29 · 정합성 98.4%"
+    },
+    {
+      "work_day": "2026-09-19",
+      "run_date_kst": "2026-09-20",
+      "status": "문제있음",
+      "alert_flag": true,
+      "total": 1811,
+      "ok_count": 1779,
+      "mismatch_count": 32,
+      "match_rate_pct": 98.23,
+      "slack_permalink": "",
+      "summary": "2026-09-19~2026-09-19 · 총 1811 · Mismatch 32 · 정합성 98.2%"
+    },
+    {
+      "work_day": "2026-09-20",
+      "run_date_kst": "2026-09-21",
+      "status": "문제있음",
+      "alert_flag": true,
+      "total": 1813,
+      "ok_count": 1776,
+      "mismatch_count": 37,
+      "match_rate_pct": 97.96,
+      "slack_permalink": "",
+      "summary": "2026-09-20~2026-09-20 · 총 1813 · Mismatch 37 · 정합성 98.0%"
+    },
+    {
+      "work_day": "2026-09-21",
+      "run_date_kst": "2026-09-22",
+      "status": "문제있음",
+      "alert_flag": true,
+      "total": 1777,
+      "ok_count": 1749,
+      "mismatch_count": 28,
+      "match_rate_pct": 98.42,
+      "slack_permalink": "",
+      "summary": "2026-09-21~2026-09-21 · 총 1777 · Mismatch 28 · 정합성 98.4%"
+    },
+    {
+      "work_day": "2026-09-22",
+      "run_date_kst": "2026-09-23",
+      "status": "문제있음",
+      "alert_flag": true,
+      "total": 1822,
+      "ok_count": 1788,
+      "mismatch_count": 34,
+      "match_rate_pct": 98.13,
+      "slack_permalink": "",
+      "summary": "2026-09-22~2026-09-22 · 총 1822 · Mismatch 34 · 정합성 98.1%"
+    },
+    {
+      "work_day": "2026-09-23",
+      "run_date_kst": "2026-09-24",
+      "status": "문제있음",
+      "alert_flag": true,
+      "total": 1817,
+      "ok_count": 1769,
+      "mismatch_count": 48,
+      "match_rate_pct": 97.36,
+      "slack_permalink": "",
+      "summary": "2026-09-23~2026-09-23 · 총 1817 · Mismatch 48 · 정합성 97.4%"
+    },
+    {
+      "work_day": "2026-09-24",
+      "run_date_kst": "2026-09-25",
+      "status": "문제있음",
+      "alert_flag": true,
+      "total": 1815,
+      "ok_count": 1786,
+      "mismatch_count": 29,
+      "match_rate_pct": 98.4,
+      "slack_permalink": "",
+      "summary": "2026-09-24~2026-09-24 · 총 1815 · Mismatch 29 · 정합성 98.4%"
+    },
+    {
+      "work_day": "2026-09-25",
+      "run_date_kst": "2026-09-26",
+      "status": "문제있음",
+      "alert_flag": true,
+      "total": 1870,
+      "ok_count": 1836,
+      "mismatch_count": 34,
+      "match_rate_pct": 98.18,
+      "slack_permalink": "",
+      "summary": "2026-09-25~2026-09-25 · 총 1870 · Mismatch 34 · 정합성 98.2%"
+    },
+    {
+      "work_day": "2026-09-26",
+      "run_date_kst": "2026-09-27",
+      "status": "문제있음",
+      "alert_flag": true,
+      "total": 1877,
+      "ok_count": 1850,
+      "mismatch_count": 27,
+      "match_rate_pct": 98.56,
+      "slack_permalink": "",
+      "summary": "2026-09-26~2026-09-26 · 총 1877 · Mismatch 27 · 정합성 98.6%"
+    },
+    {
+      "work_day": "2026-09-27",
+      "run_date_kst": "2026-09-28",
+      "status": "문제있음",
+      "alert_flag": true,
+      "total": 1893,
+      "ok_count": 1866,
+      "mismatch_count": 27,
+      "match_rate_pct": 98.57,
+      "slack_permalink": "",
+      "summary": "2026-09-27~2026-09-27 · 총 1893 · Mismatch 27 · 정합성 98.6%"
+    }
+  ]
+}
