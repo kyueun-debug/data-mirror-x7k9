@@ -1,8 +1,8 @@
 {
   "project_key": "major_sku",
-  "generated_at_kst": "2026-09-28T22:00:02+09:00",
+  "generated_at_kst": "2026-09-29T22:00:04+09:00",
   "window_days": 14,
-  "row_count": 11,
+  "row_count": 12,
   "rows": [
     {
       "work_day": "2026-09-16",
@@ -157,6 +157,20 @@
       "review_count": 0,
       "slack_permalink": "",
       "summary": "UTC 2026-09-26 · 총 185 · 정상 185 · 검토 대상 없음"
+    },
+    {
+      "work_day": "2026-09-27",
+      "run_date_kst": "2026-09-29",
+      "status": "이상없음",
+      "alert_flag": false,
+      "population": "188",
+      "total_rows": 188,
+      "matched_count": 188,
+      "confirmed_count": 0,
+      "suspect_count": 0,
+      "review_count": 0,
+      "slack_permalink": "",
+      "summary": "UTC 2026-09-27 · 총 188 · 정상 188 · 검토 대상 없음"
     }
   ]
 }

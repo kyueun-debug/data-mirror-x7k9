@@ -1,24 +1,9 @@
 {
   "project_key": "homeshare_dup",
-  "generated_at_kst": "2026-09-28T22:00:02+09:00",
+  "generated_at_kst": "2026-09-29T22:00:04+09:00",
   "window_days": 14,
   "row_count": 12,
   "rows": [
-    {
-      "work_day": "2026-09-15",
-      "run_date_kst": "2026-09-17",
-      "status": "이상없음",
-      "alert_flag": false,
-      "scanned_total": 644,
-      "candidate_groups": 1,
-      "candidate_items": 2,
-      "confirmed_groups": 1,
-      "confirmed_items": 2,
-      "final_suspect_groups": 0,
-      "final_suspect_items": 0,
-      "slack_permalink": "",
-      "summary": "UTC 2026-09-15 · 스캔 644건 · 의심 없음"
-    },
     {
       "work_day": "2026-09-16",
       "run_date_kst": "2026-09-18",
@@ -183,6 +168,21 @@
       "final_suspect_items": 0,
       "slack_permalink": "",
       "summary": "UTC 2026-09-26 · 스캔 605건 · 의심 없음"
+    },
+    {
+      "work_day": "2026-09-27",
+      "run_date_kst": "2026-09-29",
+      "status": "이상없음",
+      "alert_flag": false,
+      "scanned_total": 597,
+      "candidate_groups": 0,
+      "candidate_items": 0,
+      "confirmed_groups": 0,
+      "confirmed_items": 0,
+      "final_suspect_groups": 0,
+      "final_suspect_items": 0,
+      "slack_permalink": "",
+      "summary": "UTC 2026-09-27 · 스캔 597건 · 의심 없음"
     }
   ]
 }

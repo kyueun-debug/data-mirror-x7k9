@@ -1,8 +1,8 @@
 {
   "project_key": "pr_press_release",
-  "generated_at_kst": "2026-09-28T22:00:02+09:00",
+  "generated_at_kst": "2026-09-29T22:00:04+09:00",
   "window_days": 14,
-  "row_count": 11,
+  "row_count": 12,
   "rows": [
     {
       "work_day": "2026-09-17",
@@ -245,6 +245,28 @@
       "no_article_status": 3,
       "slack_permalink": "",
       "summary": "어제 1 · 재수집 52/79 · 중복 1"
+    },
+    {
+      "work_day": "2026-09-28",
+      "run_date_kst": "2026-09-29",
+      "status": "문제있음",
+      "alert_flag": true,
+      "collected": 0,
+      "total_accounts": 79,
+      "missing_total": 52,
+      "recollectable": 0,
+      "not_collected": 52,
+      "duplicate_url_groups": 1,
+      "is_anomaly": true,
+      "noart_rate_pct": 0.0,
+      "noart_total": 0,
+      "noart_exceeded": false,
+      "not_collected_status": 52,
+      "already_other_date": 27,
+      "collected_status": null,
+      "no_article_status": null,
+      "slack_permalink": "",
+      "summary": "어제 0 · 2026-09-28 수집 0건 · 재수집 52/79 · 중복 1"
     }
   ]
 }

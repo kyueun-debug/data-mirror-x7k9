@@ -1,8 +1,8 @@
 {
   "project_key": "promotion_sensing_ocr",
-  "generated_at_kst": "2026-09-28T22:00:02+09:00",
+  "generated_at_kst": "2026-09-29T22:00:04+09:00",
   "window_days": 14,
-  "row_count": 11,
+  "row_count": 12,
   "rows": [
     {
       "work_day": "2026-09-17",
@@ -179,6 +179,22 @@
       "missing_total": 0,
       "slack_permalink": "",
       "summary": "UTC 2026-09-27 · 수집 5/5 · 정합성 100.0% · 이상 없음"
+    },
+    {
+      "work_day": "2026-09-28",
+      "run_date_kst": "2026-09-29",
+      "status": "이상없음",
+      "alert_flag": false,
+      "collected": 5,
+      "expected": 5,
+      "overall_consistency_pct": 99.7,
+      "part1_consistency_pct": 99.1,
+      "part2_consistency_pct": 100.0,
+      "part3_consistency_pct": 100.0,
+      "total_images_checked": 361,
+      "missing_total": 1,
+      "slack_permalink": "",
+      "summary": "UTC 2026-09-28 · 수집 5/5 · 정합성 99.7% · 이상 없음"
     }
   ]
 }

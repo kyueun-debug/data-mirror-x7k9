@@ -1,8 +1,8 @@
 {
   "project_key": "banner_guardian",
-  "generated_at_kst": "2026-09-28T22:00:02+09:00",
+  "generated_at_kst": "2026-09-29T22:00:04+09:00",
   "window_days": 14,
-  "row_count": 11,
+  "row_count": 12,
   "rows": [
     {
       "work_day": "2026-09-17",
@@ -135,6 +135,18 @@
       "match_rate_pct": 98.57,
       "slack_permalink": "",
       "summary": "2026-09-27~2026-09-27 · 총 1893 · Mismatch 27 · 정합성 98.6%"
+    },
+    {
+      "work_day": "2026-09-28",
+      "run_date_kst": "2026-09-29",
+      "status": "이상없음",
+      "alert_flag": false,
+      "total": 1825,
+      "ok_count": 1795,
+      "mismatch_count": 30,
+      "match_rate_pct": 98.36,
+      "slack_permalink": "",
+      "summary": "2026-09-28~2026-09-28 · 총 1825 · 정합성 98.4%"
     }
   ]
 }

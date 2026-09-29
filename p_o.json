@@ -1,8 +1,8 @@
 {
   "project_key": "search_share",
-  "generated_at_kst": "2026-09-28T22:00:02+09:00",
+  "generated_at_kst": "2026-09-29T22:00:04+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 13,
   "rows": [
     {
       "work_day": "2026-09-16",
@@ -195,6 +195,22 @@
       "parse_fail": 444,
       "slack_permalink": "",
       "summary": "어제 3,696 / 3,696 · 100.0% · 미수집 0 · 과수집 0 · 파싱실패 444"
+    },
+    {
+      "work_day": "2026-09-28",
+      "run_date_kst": "2026-09-29",
+      "status": "문제있음",
+      "alert_flag": true,
+      "collected": 3696,
+      "expected": 3696,
+      "coverage_pct": 100.0,
+      "missing_combinations": 0,
+      "missing_shortfall": 0,
+      "duplicate_combinations": 0,
+      "keyword_missing": 0,
+      "parse_fail": 58,
+      "slack_permalink": "",
+      "summary": "어제 3,696 / 3,696 · 100.0% · 미수집 0 · 과수집 0 · 파싱실패 58"
     }
   ]
 }
