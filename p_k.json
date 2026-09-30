@@ -1,8 +1,8 @@
 {
   "project_key": "promotion_sensing",
-  "generated_at_kst": "2026-09-29T22:00:04+09:00",
+  "generated_at_kst": "2026-09-30T20:01:29+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 13,
   "rows": [
     {
       "work_day": "2026-09-17",
@@ -279,6 +279,29 @@
       "body_bloat_real": 0,
       "slack_permalink": "",
       "summary": "2026-09-28 · 837/837 · 100.0% · 이상 없음"
+    },
+    {
+      "work_day": "2026-09-29",
+      "run_date_kst": "2026-09-30",
+      "status": "이상없음",
+      "alert_flag": false,
+      "expected_count": 837,
+      "matched_count": 836,
+      "coverage_pct": 99.88,
+      "collection_failure": 16,
+      "full_missing_retailers": 0,
+      "partial_missing_retailers": 12,
+      "step1_url_mismatch": 0,
+      "step2a_channel_type_mismatch": 0,
+      "step2b_url_duplicate": 0,
+      "step3_not_registered": 0,
+      "step5_registered_but_not_collected": 22,
+      "duplicate_real": 3,
+      "korean_real": 0,
+      "currency_real": 0,
+      "body_bloat_real": 0,
+      "slack_permalink": "",
+      "summary": "2026-09-29 · 836/837 · 99.9% · 이상 없음"
     }
   ]
 }

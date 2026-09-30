@@ -1,8 +1,8 @@
 {
   "project_key": "archive_app",
-  "generated_at_kst": "2026-09-29T22:00:04+09:00",
+  "generated_at_kst": "2026-09-30T20:01:29+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 13,
   "rows": [
     {
       "work_day": "2026-09-17",
@@ -171,6 +171,20 @@
       "quality_pct": 100.0,
       "slack_permalink": "",
       "summary": "UTC 2026-09-28 · 총 360 · Mismatch 0 · NotFound 48 (정합성 무관)"
+    },
+    {
+      "work_day": "2026-09-29",
+      "run_date_kst": "2026-09-30",
+      "status": "이상없음",
+      "alert_flag": false,
+      "total_rows": 360,
+      "passed_count": 294,
+      "notfound_count": 48,
+      "mismatch_count": 0,
+      "rejected_count": 18,
+      "quality_pct": 100.0,
+      "slack_permalink": "",
+      "summary": "UTC 2026-09-29 · 총 360 · Mismatch 0 · NotFound 48 (정합성 무관)"
     }
   ]
 }
