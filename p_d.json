@@ -1,8 +1,8 @@
 {
   "project_key": "chatbot",
-  "generated_at_kst": "2026-09-30T22:00:02+09:00",
+  "generated_at_kst": "2026-10-01T22:00:04+09:00",
   "window_days": 14,
-  "row_count": 3,
+  "row_count": 4,
   "rows": [
     {
       "work_day": "2026-09-19",
@@ -54,6 +54,23 @@
       "ai_issue_total": 0,
       "slack_permalink": "",
       "summary": "2026-09-26 · 576/576 · 이상 없음"
+    },
+    {
+      "work_day": "2026-09-30",
+      "run_date_kst": "2026-10-01",
+      "status": "이상없음",
+      "alert_flag": false,
+      "collected": 576,
+      "expected": 576,
+      "expected_per_platform": 64,
+      "platform_count": 9,
+      "ai_total_qa": 576,
+      "translation_missing": 0,
+      "summary_missing": 0,
+      "match_fail": 0,
+      "ai_issue_total": 0,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1790813102838819",
+      "summary": "2026-09-30 · 576/576 · 이상 없음"
     }
   ]
 }

@@ -1,23 +1,9 @@
 {
   "project_key": "major_sku",
-  "generated_at_kst": "2026-09-30T22:00:02+09:00",
+  "generated_at_kst": "2026-10-01T22:00:04+09:00",
   "window_days": 14,
   "row_count": 12,
   "rows": [
-    {
-      "work_day": "2026-09-17",
-      "run_date_kst": "2026-09-19",
-      "status": "이상없음",
-      "alert_flag": false,
-      "population": "181",
-      "total_rows": 181,
-      "matched_count": 181,
-      "confirmed_count": 0,
-      "suspect_count": 0,
-      "review_count": 0,
-      "slack_permalink": "",
-      "summary": "UTC 2026-09-17 · 총 181 · 정상 181 · 검토 대상 없음"
-    },
     {
       "work_day": "2026-09-18",
       "run_date_kst": "2026-09-20",
@@ -171,6 +157,20 @@
       "review_count": 0,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1790742394736059",
       "summary": "UTC 2026-09-28 · 총 196 · 정상 196 · 검토 대상 없음"
+    },
+    {
+      "work_day": "2026-09-29",
+      "run_date_kst": "2026-10-01",
+      "status": "이상없음",
+      "alert_flag": false,
+      "population": "189",
+      "total_rows": 189,
+      "matched_count": 189,
+      "confirmed_count": 0,
+      "suspect_count": 0,
+      "review_count": 0,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1790828792953549",
+      "summary": "UTC 2026-09-29 · 총 189 · 정상 189 · 검토 대상 없음"
     }
   ]
 }

@@ -1,25 +1,9 @@
 {
   "project_key": "promotion_sensing_ocr",
-  "generated_at_kst": "2026-09-30T22:00:02+09:00",
+  "generated_at_kst": "2026-10-01T22:00:04+09:00",
   "window_days": 14,
   "row_count": 13,
   "rows": [
-    {
-      "work_day": "2026-09-17",
-      "run_date_kst": "2026-09-18",
-      "status": "이상없음",
-      "alert_flag": false,
-      "collected": 5,
-      "expected": 5,
-      "overall_consistency_pct": 99.7,
-      "part1_consistency_pct": 100.0,
-      "part2_consistency_pct": 98.9,
-      "part3_consistency_pct": 100.0,
-      "total_images_checked": null,
-      "missing_total": 1,
-      "slack_permalink": "",
-      "summary": "UTC 2026-09-17 · 수집 5/5 · 정합성 99.7% · 이상 없음"
-    },
     {
       "work_day": "2026-09-18",
       "run_date_kst": "2026-09-19",
@@ -211,6 +195,22 @@
       "missing_total": 1,
       "slack_permalink": "",
       "summary": "UTC 2026-09-29 · 수집 5/5 · 정합성 99.7% · 이상 없음"
+    },
+    {
+      "work_day": "2026-09-30",
+      "run_date_kst": "2026-10-01",
+      "status": "이상없음",
+      "alert_flag": false,
+      "collected": 5,
+      "expected": 5,
+      "overall_consistency_pct": 100.0,
+      "part1_consistency_pct": 100.0,
+      "part2_consistency_pct": 100.0,
+      "part3_consistency_pct": 100.0,
+      "total_images_checked": 394,
+      "missing_total": 0,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1790814217031869",
+      "summary": "UTC 2026-09-30 · 수집 5/5 · 정합성 100.0% · 이상 없음"
     }
   ]
 }
