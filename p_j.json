@@ -1,23 +1,9 @@
 {
   "project_key": "homeshare_qualified_pm",
-  "generated_at_kst": "2026-10-01T22:00:04+09:00",
+  "generated_at_kst": "2026-10-02T22:00:03+09:00",
   "window_days": 14,
   "row_count": 14,
   "rows": [
-    {
-      "work_day": "2026-09-18",
-      "run_date_kst": "2026-09-18",
-      "status": "문제있음",
-      "alert_flag": true,
-      "truth_total": 78,
-      "actual_total": 77,
-      "missing_total": 1,
-      "coverage_pct": 98.72,
-      "home_total": 78,
-      "home_missing": 0,
-      "slack_permalink": "",
-      "summary": "오후 권역 · 77/78 · qualified 누락 1"
-    },
     {
       "work_day": "2026-09-19",
       "run_date_kst": "2026-09-19",
@@ -198,6 +184,20 @@
       "home_total": 78,
       "home_missing": 0,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1790848809459099",
+      "summary": "오후 권역 · 78/78 · 100.0% · 이상 없음"
+    },
+    {
+      "work_day": "2026-10-02",
+      "run_date_kst": "2026-10-02",
+      "status": "이상없음",
+      "alert_flag": false,
+      "truth_total": 78,
+      "actual_total": 78,
+      "missing_total": 0,
+      "coverage_pct": 100.0,
+      "home_total": 78,
+      "home_missing": 0,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1790935208932119",
       "summary": "오후 권역 · 78/78 · 100.0% · 이상 없음"
     }
   ]
