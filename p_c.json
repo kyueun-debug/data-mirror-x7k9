@@ -1,21 +1,9 @@
 {
   "project_key": "banner_guardian",
-  "generated_at_kst": "2026-10-03T22:00:02+09:00",
+  "generated_at_kst": "2026-10-04T22:00:02+09:00",
   "window_days": 14,
   "row_count": 13,
   "rows": [
-    {
-      "work_day": "2026-09-20",
-      "run_date_kst": "2026-09-21",
-      "status": "문제있음",
-      "alert_flag": true,
-      "total": 1813,
-      "ok_count": 1776,
-      "mismatch_count": 37,
-      "match_rate_pct": 97.96,
-      "slack_permalink": "",
-      "summary": "2026-09-20~2026-09-20 · 총 1813 · Mismatch 37 · 정합성 98.0%"
-    },
     {
       "work_day": "2026-09-21",
       "run_date_kst": "2026-09-22",
@@ -159,6 +147,18 @@
       "match_rate_pct": 98.96,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791004168436319",
       "summary": "2026-10-02~2026-10-02 · 총 1639 · 정합성 99.0%"
+    },
+    {
+      "work_day": "2026-10-03",
+      "run_date_kst": "2026-10-04",
+      "status": "이상없음",
+      "alert_flag": false,
+      "total": 1650,
+      "ok_count": 1633,
+      "mismatch_count": 17,
+      "match_rate_pct": 98.97,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791090592313169",
+      "summary": "2026-10-03~2026-10-03 · 총 1650 · 정합성 99.0%"
     }
   ]
 }
