@@ -1,31 +1,9 @@
 {
   "project_key": "pr_press_release",
-  "generated_at_kst": "2026-10-06T22:00:03+09:00",
+  "generated_at_kst": "2026-10-07T22:00:03+09:00",
   "window_days": 14,
   "row_count": 13,
   "rows": [
-    {
-      "work_day": "2026-09-23",
-      "run_date_kst": "2026-09-24",
-      "status": "문제있음",
-      "alert_flag": false,
-      "collected": 11,
-      "total_accounts": 79,
-      "missing_total": 52,
-      "recollectable": 0,
-      "not_collected": 52,
-      "duplicate_url_groups": 1,
-      "is_anomaly": false,
-      "noart_rate_pct": 1.27,
-      "noart_total": 1,
-      "noart_exceeded": false,
-      "not_collected_status": 52,
-      "already_other_date": 21,
-      "collected_status": 5,
-      "no_article_status": 1,
-      "slack_permalink": "",
-      "summary": "어제 11 · 재수집 52/79 · 중복 1"
-    },
     {
       "work_day": "2026-09-24",
       "run_date_kst": "2026-09-25",
@@ -289,6 +267,28 @@
       "no_article_status": 4,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791244935877199?thread_ts=1791244935.877199&cid=C0AUF933D1C",
       "summary": "어제 7 · 재수집 54/79 · 중복 1"
+    },
+    {
+      "work_day": "2026-10-06",
+      "run_date_kst": "2026-10-07",
+      "status": "문제있음",
+      "alert_flag": false,
+      "collected": 4,
+      "total_accounts": 79,
+      "missing_total": 55,
+      "recollectable": 0,
+      "not_collected": 55,
+      "duplicate_url_groups": 1,
+      "is_anomaly": false,
+      "noart_rate_pct": 3.8,
+      "noart_total": 3,
+      "noart_exceeded": false,
+      "not_collected_status": 55,
+      "already_other_date": 17,
+      "collected_status": 4,
+      "no_article_status": 3,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791331336443379?thread_ts=1791331336.443379&cid=C0AUF933D1C",
+      "summary": "어제 4 · 재수집 55/79 · 중복 1"
     }
   ]
 }
