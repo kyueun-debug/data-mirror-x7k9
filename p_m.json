@@ -1,22 +1,9 @@
 {
   "project_key": "google_shopping",
-  "generated_at_kst": "2026-10-07T22:00:03+09:00",
+  "generated_at_kst": "2026-10-08T22:00:03+09:00",
   "window_days": 14,
   "row_count": 13,
   "rows": [
-    {
-      "work_day": "2026-09-24",
-      "run_date_kst": "2026-09-25",
-      "status": "이상없음",
-      "alert_flag": false,
-      "collected": 7359,
-      "prev_collected": 7763,
-      "is_anomaly": false,
-      "country_dip_count": 0,
-      "brand_dip_count": 0,
-      "slack_permalink": "",
-      "summary": "어제 7,359 (전일 7,763) · dip 없음"
-    },
     {
       "work_day": "2026-09-25",
       "run_date_kst": "2026-09-26",
@@ -172,6 +159,19 @@
       "brand_dip_count": 0,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791332816003519?thread_ts=1791332816.003519&cid=C0AUF933D1C",
       "summary": "어제 8,130 (전일 8,197) · dip 없음"
+    },
+    {
+      "work_day": "2026-10-07",
+      "run_date_kst": "2026-10-08",
+      "status": "이상없음",
+      "alert_flag": false,
+      "collected": 8100,
+      "prev_collected": 8130,
+      "is_anomaly": false,
+      "country_dip_count": 0,
+      "brand_dip_count": 0,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791419112751609?thread_ts=1791419112.751609&cid=C0AUF933D1C",
+      "summary": "어제 8,100 (전일 8,130) · dip 없음"
     }
   ]
 }

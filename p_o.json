@@ -1,25 +1,9 @@
 {
   "project_key": "search_share",
-  "generated_at_kst": "2026-10-07T22:00:03+09:00",
+  "generated_at_kst": "2026-10-08T22:00:03+09:00",
   "window_days": 14,
   "row_count": 13,
   "rows": [
-    {
-      "work_day": "2026-09-24",
-      "run_date_kst": "2026-09-25",
-      "status": "문제있음",
-      "alert_flag": true,
-      "collected": 3827,
-      "expected": 3696,
-      "coverage_pct": 103.54,
-      "missing_combinations": 0,
-      "missing_shortfall": 0,
-      "duplicate_combinations": 88,
-      "keyword_missing": 0,
-      "parse_fail": 529,
-      "slack_permalink": "",
-      "summary": "어제 3,827 / 3,696 · 103.5% · 미수집 0 · 과수집 88 · 파싱실패 529"
-    },
     {
       "work_day": "2026-09-25",
       "run_date_kst": "2026-09-26",
@@ -211,6 +195,22 @@
       "parse_fail": 24,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791331630306569",
       "summary": "어제 3,712 / 3,696 · 100.4% · 미수집 0 · 과수집 16 · 파싱실패 24"
+    },
+    {
+      "work_day": "2026-10-07",
+      "run_date_kst": "2026-10-08",
+      "status": "이상없음",
+      "alert_flag": false,
+      "collected": 3696,
+      "expected": 3696,
+      "coverage_pct": 100.0,
+      "missing_combinations": 0,
+      "missing_shortfall": 0,
+      "duplicate_combinations": 0,
+      "keyword_missing": 0,
+      "parse_fail": 33,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791418030227489",
+      "summary": "어제 3,696 / 3,696 · 100.0% · 미수집 0 · 과수집 0 · 파싱실패 33"
     }
   ]
 }
