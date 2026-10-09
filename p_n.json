@@ -1,26 +1,9 @@
 {
   "project_key": "google_shopping_kw",
-  "generated_at_kst": "2026-10-08T22:00:03+09:00",
+  "generated_at_kst": "2026-10-09T22:00:02+09:00",
   "window_days": 14,
   "row_count": 13,
   "rows": [
-    {
-      "work_day": "2026-09-25",
-      "run_date_kst": "2026-09-26",
-      "status": "이상없음",
-      "alert_flag": false,
-      "total": 90,
-      "active_total": 90,
-      "active_ok": 90,
-      "coverage_pct": 100.0,
-      "missing_count": 0,
-      "quality_issue_count": 0,
-      "phase2_active": 30,
-      "phase2_total": 30,
-      "phase2_pending": 0,
-      "slack_permalink": "",
-      "summary": "UTC 2026-09-25 · 활성 90/90 · 100.0% · 이슈 없음"
-    },
     {
       "work_day": "2026-09-26",
       "run_date_kst": "2026-09-27",
@@ -224,6 +207,23 @@
       "phase2_pending": 0,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791418384333639",
       "summary": "UTC 2026-10-07 · 활성 90/90 · 100.0% · 이슈 없음"
+    },
+    {
+      "work_day": "2026-10-08",
+      "run_date_kst": "2026-10-09",
+      "status": "이상없음",
+      "alert_flag": false,
+      "total": 90,
+      "active_total": 90,
+      "active_ok": 90,
+      "coverage_pct": 100.0,
+      "missing_count": 0,
+      "quality_issue_count": 0,
+      "phase2_active": 30,
+      "phase2_total": 30,
+      "phase2_pending": 0,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791504784312629",
+      "summary": "UTC 2026-10-08 · 활성 90/90 · 100.0% · 이슈 없음"
     }
   ]
 }

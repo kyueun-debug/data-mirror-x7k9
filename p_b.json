@@ -1,23 +1,9 @@
 {
   "project_key": "archive_app",
-  "generated_at_kst": "2026-10-08T22:00:02+09:00",
+  "generated_at_kst": "2026-10-09T22:00:02+09:00",
   "window_days": 14,
   "row_count": 13,
   "rows": [
-    {
-      "work_day": "2026-09-25",
-      "run_date_kst": "2026-09-26",
-      "status": "문제있음",
-      "alert_flag": true,
-      "total_rows": 360,
-      "passed_count": 289,
-      "notfound_count": 48,
-      "mismatch_count": 1,
-      "rejected_count": 22,
-      "quality_pct": 99.7,
-      "slack_permalink": "",
-      "summary": "UTC 2026-09-25 · 총 360 · Mismatch 1 · NotFound 48 · 품질 99.7%"
-    },
     {
       "work_day": "2026-09-26",
       "run_date_kst": "2026-09-27",
@@ -185,6 +171,20 @@
       "quality_pct": 99.1,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791418995242789",
       "summary": "UTC 2026-10-07 · 총 360 · Mismatch 0 · NotFound 44 (정합성 무관)"
+    },
+    {
+      "work_day": "2026-10-08",
+      "run_date_kst": "2026-10-09",
+      "status": "이상없음",
+      "alert_flag": false,
+      "total_rows": 360,
+      "passed_count": 295,
+      "notfound_count": 44,
+      "mismatch_count": 0,
+      "rejected_count": 21,
+      "quality_pct": 100.0,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791505393079849",
+      "summary": "UTC 2026-10-08 · 총 360 · Mismatch 0 · NotFound 44 (정합성 무관)"
     }
   ]
 }
