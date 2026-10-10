@@ -1,32 +1,9 @@
 {
   "project_key": "promotion_sensing",
-  "generated_at_kst": "2026-10-09T22:00:02+09:00",
+  "generated_at_kst": "2026-10-10T22:00:02+09:00",
   "window_days": 14,
   "row_count": 13,
   "rows": [
-    {
-      "work_day": "2026-09-26",
-      "run_date_kst": "2026-09-27",
-      "status": "문제있음",
-      "alert_flag": true,
-      "expected_count": 837,
-      "matched_count": 837,
-      "coverage_pct": 100.0,
-      "collection_failure": 10,
-      "full_missing_retailers": 0,
-      "partial_missing_retailers": 8,
-      "step1_url_mismatch": 0,
-      "step2a_channel_type_mismatch": 0,
-      "step2b_url_duplicate": 0,
-      "step3_not_registered": 0,
-      "step5_registered_but_not_collected": 3,
-      "duplicate_real": 2,
-      "korean_real": 0,
-      "currency_real": 0,
-      "body_bloat_real": 0,
-      "slack_permalink": "",
-      "summary": "2026-09-26 · 837/837 · 100.0% · STEP5 3 · 부분누락 8 · 중복 2"
-    },
     {
       "work_day": "2026-09-27",
       "run_date_kst": "2026-09-28",
@@ -302,6 +279,29 @@
       "body_bloat_real": 0,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791504667344509",
       "summary": "2026-10-08 · 837/837 · 100.0% · 이상 없음"
+    },
+    {
+      "work_day": "2026-10-09",
+      "run_date_kst": "2026-10-10",
+      "status": "이상없음",
+      "alert_flag": false,
+      "expected_count": 837,
+      "matched_count": 837,
+      "coverage_pct": 100.0,
+      "collection_failure": 17,
+      "full_missing_retailers": 0,
+      "partial_missing_retailers": 11,
+      "step1_url_mismatch": 0,
+      "step2a_channel_type_mismatch": 0,
+      "step2b_url_duplicate": 0,
+      "step3_not_registered": 0,
+      "step5_registered_but_not_collected": 0,
+      "duplicate_real": 3,
+      "korean_real": 0,
+      "currency_real": 0,
+      "body_bloat_real": 0,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791591064850369",
+      "summary": "2026-10-09 · 837/837 · 100.0% · 이상 없음"
     }
   ]
 }

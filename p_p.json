@@ -1,30 +1,9 @@
 {
   "project_key": "acom_apple",
-  "generated_at_kst": "2026-10-09T22:00:02+09:00",
+  "generated_at_kst": "2026-10-10T22:00:02+09:00",
   "window_days": 14,
   "row_count": 13,
   "rows": [
-    {
-      "work_day": "2026-09-26",
-      "run_date_kst": "2026-09-27",
-      "status": "이상없음",
-      "alert_flag": false,
-      "expected_count": 54,
-      "matched_count": 54,
-      "coverage_pct": 100.0,
-      "collection_failure": 0,
-      "full_missing_retailers": 0,
-      "partial_missing_retailers": 0,
-      "duplicate_real": 0,
-      "korean_real": 0,
-      "currency_real": 0,
-      "boundary_misplace_real": 0,
-      "alt_missing_real": 0,
-      "expected_retailers": 27,
-      "collected_retailers": 27,
-      "slack_permalink": "",
-      "summary": "2026-09-26 · 54/54 · 100.0% · 이상 없음"
-    },
     {
       "work_day": "2026-09-27",
       "run_date_kst": "2026-09-28",
@@ -276,6 +255,27 @@
       "collected_retailers": 27,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791506105036529",
       "summary": "2026-10-08 · 54/54 · 100.0% · 이상 없음"
+    },
+    {
+      "work_day": "2026-10-09",
+      "run_date_kst": "2026-10-10",
+      "status": "이상없음",
+      "alert_flag": false,
+      "expected_count": 54,
+      "matched_count": 54,
+      "coverage_pct": 100.0,
+      "collection_failure": 0,
+      "full_missing_retailers": 0,
+      "partial_missing_retailers": 0,
+      "duplicate_real": 0,
+      "korean_real": 0,
+      "currency_real": 0,
+      "boundary_misplace_real": 0,
+      "alt_missing_real": 0,
+      "expected_retailers": 27,
+      "collected_retailers": 27,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791592505131059",
+      "summary": "2026-10-09 · 54/54 · 100.0% · 이상 없음"
     }
   ]
 }
