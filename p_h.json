@@ -1,24 +1,9 @@
 {
   "project_key": "homeshare_dup",
-  "generated_at_kst": "2026-10-11T22:00:02+09:00",
+  "generated_at_kst": "2026-10-12T18:15:02+09:00",
   "window_days": 14,
   "row_count": 12,
   "rows": [
-    {
-      "work_day": "2026-09-28",
-      "run_date_kst": "2026-09-30",
-      "status": "이상없음",
-      "alert_flag": false,
-      "scanned_total": 575,
-      "candidate_groups": 0,
-      "candidate_items": 0,
-      "confirmed_groups": 0,
-      "confirmed_items": 0,
-      "final_suspect_groups": 0,
-      "final_suspect_items": 0,
-      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1790746214568639",
-      "summary": "UTC 2026-09-28 · 스캔 575건 · 의심 없음"
-    },
     {
       "work_day": "2026-09-29",
       "run_date_kst": "2026-10-01",
@@ -183,6 +168,21 @@
       "final_suspect_items": 0,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791696684640909",
       "summary": "UTC 2026-10-09 · 스캔 507건 · 의심 없음"
+    },
+    {
+      "work_day": "2026-10-10",
+      "run_date_kst": "2026-10-12",
+      "status": "이상없음",
+      "alert_flag": false,
+      "scanned_total": 531,
+      "candidate_groups": 0,
+      "candidate_items": 0,
+      "confirmed_groups": 0,
+      "confirmed_items": 0,
+      "final_suspect_groups": 0,
+      "final_suspect_items": 0,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791783098378649",
+      "summary": "UTC 2026-10-10 · 스캔 531건 · 의심 없음"
     }
   ]
 }
