@@ -1,22 +1,9 @@
 {
   "project_key": "archive_web_target",
-  "generated_at_kst": "2026-10-14T23:15:03+09:00",
+  "generated_at_kst": "2026-10-15T00:15:02+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 11,
   "rows": [
-    {
-      "work_day": "2026-10-01",
-      "run_date_kst": "2026-10-02",
-      "status": "이상없음",
-      "alert_flag": false,
-      "active_count": 4100,
-      "mapped_count": 4100,
-      "missing_count": 0,
-      "coverage_pct": 100.0,
-      "post_noon_new_count": 0,
-      "slack_permalink": "https://enhans-21.slack.com/archives/C0BAXJQSFAP/p1790931614268499?thread_ts=1790931614.268499&cid=C0BAXJQSFAP",
-      "summary": "UTC 2026-10-01 · 매핑 4,100/4,100 · 100.0% · 이상 없음"
-    },
     {
       "work_day": "2026-10-02",
       "run_date_kst": "2026-10-03",
