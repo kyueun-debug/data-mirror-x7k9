@@ -1,6 +1,6 @@
 {
   "project_key": "homeshare_batch",
-  "generated_at_kst": "2026-10-17T01:15:12+09:00",
+  "generated_at_kst": "2026-10-17T02:15:05+09:00",
   "window_days": 14,
   "row_count": 14,
   "rows": [
@@ -218,15 +218,15 @@
       "status": "이상없음",
       "alert_flag": false,
       "expected_slots": 12,
-      "completed_slots": 1,
-      "ok_slots": 1,
+      "completed_slots": 2,
+      "ok_slots": 2,
       "problem_slots": 0,
-      "total_expected": 20,
-      "total_collected": 20,
+      "total_expected": 40,
+      "total_collected": 40,
       "total_missing": 0,
       "coverage_pct": 100.0,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0BAXJQSFAP/p1792164605503849",
-      "summary": "1/12 슬롯 완료 · 00:00 이상없음"
+      "summary": "2/12 슬롯 완료 · 전부 정상"
     }
   ]
 }
