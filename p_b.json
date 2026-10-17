@@ -1,23 +1,9 @@
 {
   "project_key": "archive_app",
-  "generated_at_kst": "2026-10-17T23:15:04+09:00",
+  "generated_at_kst": "2026-10-18T00:15:03+09:00",
   "window_days": 14,
-  "row_count": 13,
+  "row_count": 12,
   "rows": [
-    {
-      "work_day": "2026-10-04",
-      "run_date_kst": "2026-10-05",
-      "status": "이상없음",
-      "alert_flag": false,
-      "total_rows": 360,
-      "passed_count": 283,
-      "notfound_count": 47,
-      "mismatch_count": 0,
-      "rejected_count": 30,
-      "quality_pct": 100.0,
-      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791159789863559",
-      "summary": "UTC 2026-10-04 · 총 360 · Mismatch 0 · NotFound 47 (정합성 무관)"
-    },
     {
       "work_day": "2026-10-05",
       "run_date_kst": "2026-10-06",

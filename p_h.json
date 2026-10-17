@@ -1,24 +1,9 @@
 {
   "project_key": "homeshare_dup",
-  "generated_at_kst": "2026-10-17T23:15:04+09:00",
+  "generated_at_kst": "2026-10-18T00:15:03+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 11,
   "rows": [
-    {
-      "work_day": "2026-10-04",
-      "run_date_kst": "2026-10-06",
-      "status": "이상없음",
-      "alert_flag": false,
-      "scanned_total": 488,
-      "candidate_groups": 1,
-      "candidate_items": 2,
-      "confirmed_groups": 1,
-      "confirmed_items": 2,
-      "final_suspect_groups": 0,
-      "final_suspect_items": 0,
-      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791264626539019",
-      "summary": "UTC 2026-10-04 · 스캔 488건 · 의심 없음"
-    },
     {
       "work_day": "2026-10-05",
       "run_date_kst": "2026-10-07",
