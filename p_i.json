@@ -1,8 +1,8 @@
 {
   "project_key": "homeshare_qualified_am",
-  "generated_at_kst": "2026-10-20T13:15:03+09:00",
+  "generated_at_kst": "2026-10-20T14:15:06+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 13,
   "rows": [
     {
       "work_day": "2026-10-07",
@@ -171,6 +171,20 @@
       "home_missing": 0,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1792386009711689",
       "summary": "오전 권역 · 202/202 · 100.0% · 이상 없음"
+    },
+    {
+      "work_day": "2026-10-19",
+      "run_date_kst": "2026-10-20",
+      "status": "문제있음",
+      "alert_flag": true,
+      "truth_total": 202,
+      "actual_total": 202,
+      "missing_total": 0,
+      "coverage_pct": 100.0,
+      "home_total": 202,
+      "home_missing": 1,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1792472415299999",
+      "summary": "오전 권역 · 202/202 · 홈 이미지 누락 1"
     }
   ]
 }
