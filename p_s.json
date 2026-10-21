@@ -1,26 +1,9 @@
 {
   "project_key": "archive_web_amazon",
-  "generated_at_kst": "2026-10-21T23:15:02+09:00",
+  "generated_at_kst": "2026-10-22T00:15:03+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 11,
   "rows": [
-    {
-      "work_day": "2026-10-08",
-      "run_date_kst": "2026-10-09",
-      "status": "이상없음",
-      "alert_flag": false,
-      "collected": 886,
-      "expected": 886,
-      "coverage_pct": 100.0,
-      "real_missing": 0,
-      "new_missing": 0,
-      "block_count": 0,
-      "block_rate_pct": 0.0,
-      "is_anomaly": false,
-      "region_count": null,
-      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791506413129229?thread_ts=1791506413.129229&cid=C0AUF933D1C",
-      "summary": "어제 886 / 886 · 100.0% · 신규 0건 자연 제외"
-    },
     {
       "work_day": "2026-10-09",
       "run_date_kst": "2026-10-10",
