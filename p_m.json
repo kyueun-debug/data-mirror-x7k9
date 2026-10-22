@@ -1,8 +1,8 @@
 {
   "project_key": "google_shopping",
-  "generated_at_kst": "2026-10-22T09:15:04+09:00",
+  "generated_at_kst": "2026-10-22T10:15:07+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 13,
   "rows": [
     {
       "work_day": "2026-10-09",
@@ -159,6 +159,19 @@
       "brand_dip_count": 0,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1792542428879659?thread_ts=1792542428.879659&cid=C0AUF933D1C",
       "summary": "어제 9,048 (전일 9,134) · dip 없음"
+    },
+    {
+      "work_day": "2026-10-21",
+      "run_date_kst": "2026-10-22",
+      "status": "이상없음",
+      "alert_flag": false,
+      "collected": 9325,
+      "prev_collected": 9048,
+      "is_anomaly": false,
+      "country_dip_count": 0,
+      "brand_dip_count": 0,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1792628828190849?thread_ts=1792628828.190849&cid=C0AUF933D1C",
+      "summary": "어제 9,325 (전일 9,048) · dip 없음"
     }
   ]
 }
