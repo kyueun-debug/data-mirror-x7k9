@@ -1,31 +1,9 @@
 {
   "project_key": "pr_press_release",
-  "generated_at_kst": "2026-10-22T23:15:05+09:00",
+  "generated_at_kst": "2026-10-23T00:15:06+09:00",
   "window_days": 14,
-  "row_count": 13,
+  "row_count": 12,
   "rows": [
-    {
-      "work_day": "2026-10-09",
-      "run_date_kst": "2026-10-10",
-      "status": "문제있음",
-      "alert_flag": false,
-      "collected": 17,
-      "total_accounts": 79,
-      "missing_total": 54,
-      "recollectable": 0,
-      "not_collected": 54,
-      "duplicate_url_groups": 1,
-      "is_anomaly": false,
-      "noart_rate_pct": 2.53,
-      "noart_total": 2,
-      "noart_exceeded": false,
-      "not_collected_status": 54,
-      "already_other_date": 15,
-      "collected_status": 8,
-      "no_article_status": 2,
-      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791590535221619?thread_ts=1791590535.221619&cid=C0AUF933D1C",
-      "summary": "어제 17 · 재수집 54/79 · 중복 1"
-    },
     {
       "work_day": "2026-10-10",
       "run_date_kst": "2026-10-11",
