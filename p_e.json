@@ -1,30 +1,9 @@
 {
   "project_key": "social_posting",
-  "generated_at_kst": "2026-10-25T23:15:11+09:00",
+  "generated_at_kst": "2026-10-26T00:15:06+09:00",
   "window_days": 14,
-  "row_count": 13,
+  "row_count": 12,
   "rows": [
-    {
-      "work_day": "2026-10-12",
-      "run_date_kst": "2026-10-13",
-      "status": "문제있음",
-      "alert_flag": false,
-      "collected": 1078,
-      "total_targets": 494,
-      "missing_recollectable": 0,
-      "missing_not_collected": 0,
-      "duplicate_url_groups": 2,
-      "is_anomaly": false,
-      "platform_gap_count": 0,
-      "follower_anomaly_count": 0,
-      "llm_qa_count": 21,
-      "llm_disagreement_count": 1,
-      "noart_exceeded_count": 0,
-      "collected_status": 229,
-      "no_article_status": 264,
-      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1791849599951729?thread_ts=1791849599.951729&cid=C0AUF933D1C",
-      "summary": "어제 1,078 · 중복 2 · LLM 불일치 1"
-    },
     {
       "work_day": "2026-10-13",
       "run_date_kst": "2026-10-14",
