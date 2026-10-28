@@ -1,8 +1,8 @@
 {
   "project_key": "pr_press_release",
-  "generated_at_kst": "2026-10-28T08:15:03+09:00",
+  "generated_at_kst": "2026-10-28T09:15:05+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 13,
   "rows": [
     {
       "work_day": "2026-10-15",
@@ -267,6 +267,28 @@
       "no_article_status": 3,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1793059355319789?thread_ts=1793059355.319789&cid=C0AUF933D1C",
       "summary": "어제 0 · 2026-10-26 수집 0건 · 재수집 51/79 · 중복 1"
+    },
+    {
+      "work_day": "2026-10-27",
+      "run_date_kst": "2026-10-28",
+      "status": "문제있음",
+      "alert_flag": false,
+      "collected": 8,
+      "total_accounts": 79,
+      "missing_total": 52,
+      "recollectable": 0,
+      "not_collected": 52,
+      "duplicate_url_groups": 1,
+      "is_anomaly": false,
+      "noart_rate_pct": 1.27,
+      "noart_total": 1,
+      "noart_exceeded": false,
+      "not_collected_status": 52,
+      "already_other_date": 18,
+      "collected_status": 8,
+      "no_article_status": 1,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1793145755163889?thread_ts=1793145755.163889&cid=C0AUF933D1C",
+      "summary": "어제 8 · 재수집 52/79 · 중복 1"
     }
   ]
 }
