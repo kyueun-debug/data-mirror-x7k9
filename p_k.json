@@ -1,8 +1,8 @@
 {
   "project_key": "promotion_sensing",
-  "generated_at_kst": "2026-10-29T08:15:02+09:00",
+  "generated_at_kst": "2026-10-29T09:15:02+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 13,
   "rows": [
     {
       "work_day": "2026-10-16",
@@ -279,6 +279,29 @@
       "body_bloat_real": 0,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1793146296317979",
       "summary": "2026-10-27 · 836/837 · 99.9% · 이상 없음"
+    },
+    {
+      "work_day": "2026-10-28",
+      "run_date_kst": "2026-10-29",
+      "status": "이상없음",
+      "alert_flag": false,
+      "expected_count": 837,
+      "matched_count": 827,
+      "coverage_pct": 98.81,
+      "collection_failure": 24,
+      "full_missing_retailers": 0,
+      "partial_missing_retailers": 18,
+      "step1_url_mismatch": 0,
+      "step2a_channel_type_mismatch": 0,
+      "step2b_url_duplicate": 0,
+      "step3_not_registered": 0,
+      "step5_registered_but_not_collected": 10,
+      "duplicate_real": 4,
+      "korean_real": 0,
+      "currency_real": 0,
+      "body_bloat_real": 0,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1793232692615019",
+      "summary": "2026-10-28 · 827/837 · 98.8% · 이상 없음"
     }
   ]
 }
