@@ -1,8 +1,8 @@
 {
   "project_key": "archive_web_amazon",
-  "generated_at_kst": "2026-11-09T09:15:02+09:00",
+  "generated_at_kst": "2026-11-09T10:15:02+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 13,
   "rows": [
     {
       "work_day": "2026-10-27",
@@ -207,6 +207,23 @@
       "region_count": null,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1794098412682589?thread_ts=1794098412.682589&cid=C0AUF933D1C",
       "summary": "어제 82 / 886 · 9.3% · 전체 수집률 9% (< 80%) · 지역 수집량 급감(전일 대비 -50%↓): EU -100% · NA -100% · LATAM -100% · MENA -100% · SWA (India) -100% · Japan -58% · Africa -100% · 지역 수집률<80%: EU 0% · NA 0% · LATAM 0% ·"
+    },
+    {
+      "work_day": "2026-11-08",
+      "run_date_kst": "2026-11-09",
+      "status": "이상없음",
+      "alert_flag": false,
+      "collected": 886,
+      "expected": 886,
+      "coverage_pct": 100.0,
+      "real_missing": 0,
+      "new_missing": 0,
+      "block_count": 7,
+      "block_rate_pct": 0.79,
+      "is_anomaly": false,
+      "region_count": null,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1794184812481269?thread_ts=1794184812.481269&cid=C0AUF933D1C",
+      "summary": "어제 886 / 886 · 100.0% · 신규 0건 자연 제외"
     }
   ]
 }
