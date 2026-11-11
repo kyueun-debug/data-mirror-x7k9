@@ -1,8 +1,8 @@
 {
   "project_key": "social_posting",
-  "generated_at_kst": "2026-11-11T08:15:02+09:00",
+  "generated_at_kst": "2026-11-11T09:15:02+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 13,
   "rows": [
     {
       "work_day": "2026-10-29",
@@ -255,6 +255,27 @@
       "no_article_status": 296,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1794268800214959?thread_ts=1794268800.214959&cid=C0AUF933D1C",
       "summary": "어제 754 · 재수집 1/494 · 중복 2 · 팔로워 이상 1"
+    },
+    {
+      "work_day": "2026-11-10",
+      "run_date_kst": "2026-11-11",
+      "status": "문제있음",
+      "alert_flag": true,
+      "collected": 724,
+      "total_targets": 494,
+      "missing_recollectable": 0,
+      "missing_not_collected": 0,
+      "duplicate_url_groups": 2,
+      "is_anomaly": false,
+      "platform_gap_count": 1,
+      "follower_anomaly_count": 1,
+      "llm_qa_count": 15,
+      "llm_disagreement_count": 0,
+      "noart_exceeded_count": 1,
+      "collected_status": 210,
+      "no_article_status": 283,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1794355200212299?thread_ts=1794355200.212299&cid=C0AUF933D1C",
+      "summary": "어제 724 · 플랫폼 누락 1 · 중복 2 · 팔로워 이상 1 · NO_ART 1"
     }
   ]
 }
