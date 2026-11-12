@@ -1,26 +1,9 @@
 {
   "project_key": "google_shopping_kw",
-  "generated_at_kst": "2026-11-12T23:15:02+09:00",
+  "generated_at_kst": "2026-11-13T00:15:02+09:00",
   "window_days": 14,
-  "row_count": 13,
+  "row_count": 12,
   "rows": [
-    {
-      "work_day": "2026-10-30",
-      "run_date_kst": "2026-10-31",
-      "status": "문제있음",
-      "alert_flag": true,
-      "total": 90,
-      "active_total": 90,
-      "active_ok": 78,
-      "coverage_pct": 86.67,
-      "missing_count": 12,
-      "quality_issue_count": 0,
-      "phase2_active": 30,
-      "phase2_total": 30,
-      "phase2_pending": 0,
-      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1793405626258979",
-      "summary": "UTC 2026-10-30 · 활성 78/90 · 86.7% · 누락 12 · 품질 0"
-    },
     {
       "work_day": "2026-10-31",
       "run_date_kst": "2026-11-01",
