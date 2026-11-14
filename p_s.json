@@ -1,8 +1,8 @@
 {
   "project_key": "archive_web_amazon",
-  "generated_at_kst": "2026-11-14T09:15:02+09:00",
+  "generated_at_kst": "2026-11-14T10:15:02+09:00",
   "window_days": 14,
-  "row_count": 12,
+  "row_count": 13,
   "rows": [
     {
       "work_day": "2026-11-01",
@@ -206,6 +206,23 @@
       "is_anomaly": false,
       "region_count": null,
       "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1794530413028609?thread_ts=1794530413.028609&cid=C0AUF933D1C",
+      "summary": "어제 886 / 886 · 100.0% · 신규 0건 자연 제외"
+    },
+    {
+      "work_day": "2026-11-13",
+      "run_date_kst": "2026-11-14",
+      "status": "이상없음",
+      "alert_flag": false,
+      "collected": 886,
+      "expected": 886,
+      "coverage_pct": 100.0,
+      "real_missing": 0,
+      "new_missing": 0,
+      "block_count": 32,
+      "block_rate_pct": 3.61,
+      "is_anomaly": false,
+      "region_count": null,
+      "slack_permalink": "https://enhans-21.slack.com/archives/C0AUF933D1C/p1794616812881189?thread_ts=1794616812.881189&cid=C0AUF933D1C",
       "summary": "어제 886 / 886 · 100.0% · 신규 0건 자연 제외"
     }
   ]
